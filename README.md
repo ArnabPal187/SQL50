@@ -30,7 +30,7 @@ Clone this repository to your local machine:
 ```bash
 git clone https://github.com/your-username/sql-50-questions.git
 ```
-Open the repository and start solving the questions.```
+Open the repository and start solving the questions.
 
 Check the answers at the bottom (or in separate files) to verify your solutions.
 
@@ -60,9 +60,10 @@ And much more! 🌟
 🚀 Getting Started
 Clone the repository:
 
-bash
+```bash
 Copy
 git clone https://github.com/your-username/sql-50-questions.git
+```
 Explore the questions in the files provided.
 
 Start practicing and improving your SQL skills! 💪
