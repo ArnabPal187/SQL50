@@ -1,5 +1,5 @@
 # SQL50
-THIS IS THE REPO TO SHOW MY SUBMISSION AT SQL 50 IN LEETCODE
+THIS IS THE REPO TO SHOW MY SUBMISSION AT [SQL 50 IN LEETCODE](https://leetcode.com/studyplan/top-sql-50/)
 📚 SQL 50 Questions 🚀
 Welcome to the SQL 50 Questions repository! 🎉 This repository contains a carefully curated list of 50 SQL questions that are perfect for anyone looking to practice and improve their SQL skills. Whether you're a beginner, intermediate, or advanced learner, these questions cover a wide range of SQL concepts and techniques.
 📌 What's Inside?
@@ -61,7 +61,6 @@ And much more! 🌟
 Clone the repository:
 
 ```bash
-Copy
 git clone https://github.com/your-username/sql-50-questions.git
 ```
 Explore the questions in the files provided.
@@ -71,11 +70,11 @@ Start practicing and improving your SQL skills! 💪
 📈 Contributions
 We welcome contributions! If you have more questions or solutions to add, feel free to fork the repo and create a pull request. We’re always happy to improve the collection! 🌱
 📚 References & Resources
-SQL Documentation
+[SQL Documentation](https://www.sqltutorial.org/)
 
-W3Schools SQL Tutorial
+[W3Schools SQL Tutorial](https://www.w3schools.com/sql/)
 
-LeetCode SQL Practice
+[LeetCode SQL Practice](https://leetcode.com/studyplan/top-sql-50/)
 📢 Stay Connected
 If you found this repository helpful, consider giving it a star ⭐ and sharing it with others. For any questions or feedback, feel free to open an issue or contact me!
 
