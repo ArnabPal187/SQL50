@@ -28,7 +28,6 @@ Helpful explanations to understand the reasoning behind each answer.
 Clone this repository to your local machine:
 
 '''bash
-Copy
 git clone https://github.com/your-username/sql-50-questions.git
 Open the repository and start solving the questions.
 
