@@ -79,6 +79,8 @@ We welcome contributions! If you have more questions or solutions to add, feel f
 [W3Schools SQL Tutorial](https://www.w3schools.com/sql/)
 
 [LeetCode SQL Practice](https://leetcode.com/studyplan/top-sql-50/)
+
+
 📢 Stay Connected
 If you found this repository helpful, consider giving it a star ⭐ and sharing it with others. For any questions or feedback, feel free to open an issue or contact me!
 
