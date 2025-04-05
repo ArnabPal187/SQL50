@@ -38,22 +38,23 @@ If you're stuck on any question, don't hesitate to reach out or open an issue! �
 📋 Topics Covered
 SELECT Statements
 
-WHERE Clause
+1> WHERE Clause
 
-JOIN Operations
+2> JOIN Operations
 
-GROUP BY & HAVING
+3> GROUP BY & HAVING
 
-Subqueries
+4> Subqueries
 
-UNION & INTERSECT
+5> UNION & INTERSECT
 
-Window Functions
-Set Operations
+6> Window Functions
 
-Normalization & Database Design
+7> Set Operations
 
-Indexes & Optimization
+8> Normalization & Database Design
+
+9> Indexes & Optimization
 
 And much more! 🌟
 
@@ -69,6 +70,8 @@ Start practicing and improving your SQL skills! 💪
 
 📈 Contributions
 We welcome contributions! If you have more questions or solutions to add, feel free to fork the repo and create a pull request. We’re always happy to improve the collection! 🌱
+
+
 📚 References & Resources
 [SQL Documentation](https://www.sqltutorial.org/)
 
