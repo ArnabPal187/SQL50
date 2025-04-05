@@ -73,6 +73,7 @@ We welcome contributions! If you have more questions or solutions to add, feel f
 
 
 📚 References & Resources
+
 [SQL Documentation](https://www.sqltutorial.org/)
 
 [W3Schools SQL Tutorial](https://www.w3schools.com/sql/)
