@@ -1,5 +1,4 @@
 # Write your MySQL query statement below
-# Write your MySQL query statement below
 SELECT 
 	tday.id
 FROM weather tday
