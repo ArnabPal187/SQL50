@@ -28,7 +28,7 @@ Helpful explanations to understand the reasoning behind each answer.
 Clone this repository to your local machine:
 
 ```bash
-git clone https://github.com/your-username/sql-50-questions.git
+git clone https://github.com/ArnabPal187/SQL50.git
 ```
 Open the repository and start solving the questions.
 
@@ -62,7 +62,7 @@ And much more! 🌟
 Clone the repository:
 
 ```bash
-git clone https://github.com/your-username/sql-50-questions.git
+git clone https://github.com/ArnabPal187/SQL50.git
 ```
 Explore the questions in the files provided.
 
