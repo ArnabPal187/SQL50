@@ -1,6 +1,6 @@
 # Write your MySQL query statement below
-SELECT A.machine_id, 
-       ROUND(AVG(B.timestamp - A.timestamp), 3) AS processing_time
+SELECT 
+A.machine_id, ROUND(AVG(B.timestamp - A.timestamp), 3) AS processing_time
 FROM Activity A
 JOIN Activity B
 ON A.machine_id = B.machine_id 
